@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! It is great to meet you.</h1>
 
-<p>Welcome to my page! </br> I'm Samarth Gowda, Stats ML @ Carnegie Mellon and Founder @ Pralent from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Philadelphia, PA, USA.</b> </p>
+<p>Welcome to my page! </br> I'm Samarth Gowda, Stats ML @ Carnegie Mellon and Founder @ Pralent from <b>Philadelphia, PA, USA.</b> </p>
 <h3>Things I like to code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
