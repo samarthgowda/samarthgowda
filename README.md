@@ -18,6 +18,6 @@
 </p>
 <h3>Currently working on</h3>
 <ul>
-  <li><a href="https://pralent.com"><b>🎒 Pralent.com</b></a><br/><i>Platform that helps students engage with experiential learning opportunities outside the traditional classroom.</i></li>
+  <li><a href="https://pralent.com"><b>🎒 Pralent.com</b></a><br/><i>An all-in-one platform to run your entire community. Pralent empowers you to create cohesive experiences for your members through events, networking, programs, and more.</i></li>
    <li><a href="https://ueacmu.com"><b>🦄 CMU Undergraduate Entrepreneurship Association</b></a><br/><i>Transforming Carnegie Mellon's Startup Ecosystem for Undergraduate Students.</i></li>
 </ul>
