@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! It is great to meet you.</h1>
 
-<p>Welcome to my GitHub! </br> I'm Samarth Gowda, somehow finished Stats ML @ Carnegie Mellon, probably coding right now and I am from <b>Philadelphia.</b> </p>
+<p>Welcome to my GitHub! </br> I'm Samarth Gowda, somehow finished Stats ML @ Carnegie Mellon, probably coding right now, I am from <b>Philadelphia.</b> </p>
 <h3>Things I like to build with</h3>
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-rounded&logo=Next.js&logoColor=white" />
